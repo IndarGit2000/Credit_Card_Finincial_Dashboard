@@ -12,7 +12,6 @@ Welcome to the **Credit Card Financial Dashboard** repository! This project feat
 - [Data Sources](#data-sources)
 - [How to Use](#how-to-use)
 - [Customization](#customization)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -63,7 +62,7 @@ This Power BI dashboard provides interactive reports and visualizations for cred
 
 For questions, suggestions, or collaboration:
 - **GitHub:** [IndarGit2000](https://github.com/IndarGit2000)
-- **Email:** [your-email@example.com](indarkulkarni416314@gmail.com)
+- **Email:** [indarkulkarni416314@gmail.com](mailto:indarkulkarni416314@gmail.com)
 
 ---
 
